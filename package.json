@@ -1,0 +1,34 @@
+{
+  "name": "skitter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.8.0",
+    "@mui/material": "^5.8.0",
+    "@next-auth/mongodb-adapter": "^1.0.1",
+    "framer-motion": "^5.5.7",
+    "mongodb": "^4.3.0",
+    "next": "^12.0.7",
+    "next-auth": "^4.3.4",
+    "next-themes": "^0.0.15",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "recoil": "^0.5.2",
+    "timeago-react": "^3.0.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "eslint": "^8.15.0",
+    "eslint-config-next": "12.1.6",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24"
+  }
+}
